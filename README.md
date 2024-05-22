@@ -6,6 +6,10 @@ Update and install tailscale + omv
 curl -fsSL https://raw.githubusercontent.com/SaracenRhue/pivault/main/setup.sh | sh
 ```
 
+```
+sudo tailscale up --ssh
+```
+
 Change the default port (80)
 
 ```
